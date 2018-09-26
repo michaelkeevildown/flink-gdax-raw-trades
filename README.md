@@ -1,3 +1,5 @@
+# Load Raw GDAX Trades into Elasticsearch
+
 ## Load Raw Trades
 
 #### Implementation details:
